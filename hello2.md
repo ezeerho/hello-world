@@ -1,5 +1,5 @@
 # hello git
- version4 ---- 추가
+ version6---- 추가
 
 ## git 명령어 요약
 
