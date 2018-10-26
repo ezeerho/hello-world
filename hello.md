@@ -1,6 +1,7 @@
 # hello git
 
 - version7
+next
 
 ## git 명령어 요약
 
